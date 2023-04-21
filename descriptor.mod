@@ -1,6 +1,7 @@
 version="rg"
 replace_path="history/countries"
 replace_path="history/states"
+replace_path="map/strategicregions"
 tags={
 	"National Focuses"
 	"Alternative History"
