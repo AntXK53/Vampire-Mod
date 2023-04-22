@@ -109,3 +109,8 @@ TUR = {
 	color = rgb { 167 17 1}
 	color_ui = rgb { 169 17 1 }
 }
+
+AME = {
+	color = rbg { 63  59  137 }
+	color_ui = rgb { 65  60  137 }
+}
