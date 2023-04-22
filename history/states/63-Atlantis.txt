@@ -1,6 +1,6 @@
 state={
 	id=63
-	name="STATE_63"
+	name="Atlantis"
 	provinces={
 		7420 7901 14068 14072 
 	}

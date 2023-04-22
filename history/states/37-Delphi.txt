@@ -1,6 +1,6 @@
 state={
 	id=37
-	name="STATE_37"
+	name="Delphi"
 	provinces={
 		114 1543 1851 3436 5432 
 	}

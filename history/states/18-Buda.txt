@@ -1,6 +1,6 @@
 state={
 	id=18
-	name="STATE_18"
+	name="Buda"
 	provinces={
 		635 1178 3243 5573 7352 7569 9927 9958 
 	}

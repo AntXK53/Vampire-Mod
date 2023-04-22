@@ -1,6 +1,6 @@
 state={
 	id=15
-	name="STATE_15"
+	name="Trieste"
 	provinces={
 		7239 10606 10655 10676 10688 10703 
 	}

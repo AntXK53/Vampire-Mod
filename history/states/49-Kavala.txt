@@ -1,6 +1,6 @@
 state={
 	id=49
-	name="STATE_49"
+	name="Kavala"
 	provinces={
 		59 121 678 2416 3686 4269 4377 5963 8317 13401 
 	}

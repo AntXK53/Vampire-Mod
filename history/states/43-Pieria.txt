@@ -1,6 +1,6 @@
 state={
 	id=43
-	name="STATE_43"
+	name="Pieria"
 	provinces={
 		219 469 698 1524 1534 3056 4803 5820 8332 13585 13614 
 	}

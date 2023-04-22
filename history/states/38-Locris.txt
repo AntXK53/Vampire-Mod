@@ -1,6 +1,6 @@
 state={
 	id=38
-	name="STATE_38"
+	name="Locris"
 	provinces={
 		1904 3948 4510 5495 6210 13772 13780 13790 
 	}

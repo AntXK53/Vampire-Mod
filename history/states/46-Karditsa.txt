@@ -1,6 +1,6 @@
 state={
 	id=46
-	name="STATE_46"
+	name="Karditsa"
 	provinces={
 		485 641 928 1506 1907 2523 4364 4710 5166 9330 9362 13736 17147 
 	}

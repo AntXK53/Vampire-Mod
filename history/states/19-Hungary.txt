@@ -1,7 +1,7 @@
 
 state={
 	id=19
-	name="STATE_19"
+	name="Hungary"
 	provinces={
 		1122 2447 2697 4902 4922 5321 5947 6074 6349 9067 9999 10029 
 	}

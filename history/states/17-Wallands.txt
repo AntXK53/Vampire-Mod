@@ -1,6 +1,6 @@
 state={
 	id=17
-	name="STATE_17"
+	name="Wallands"
 	provinces={
 		1989 3631 6555 9994 10008 
 	}

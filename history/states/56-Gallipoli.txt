@@ -1,6 +1,6 @@
 state={
 	id=56
-	name="STATE_56"
+	name="Gallipoli"
 	provinces={
 		3147 3700 4006 5508 6098 6674 8605 8865 
 	}

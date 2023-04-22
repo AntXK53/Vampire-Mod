@@ -1,6 +1,6 @@
 state={
 	id=23
-	name="STATE_23"
+	name="Athos"
 	provinces={
 		1353 2333 5502 
 	}

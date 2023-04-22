@@ -1,6 +1,6 @@
 state={
 	id=59
-	name="STATE_59"
+	name="Yalova"
 	provinces={
 		846 3512 5044 5189 5896 6435 9341 13363 13395 13419 13969 
 	}
