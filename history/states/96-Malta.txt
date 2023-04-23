@@ -1,6 +1,6 @@
 state={
 	id=96
-	name="STATE_96"
+	name="Malta"
 	provinces={
 		14076 14077 14078 14080 
 	}
