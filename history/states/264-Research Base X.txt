@@ -1,6 +1,6 @@
 state={
 	id=264
-	name="STATE_264"
+	name="Research Base X"
 	provinces={
 		105 1187 3453 4051 5651 6102 9338 12303 12305 12327 12330 12346 12374 
 	}
