@@ -1,7 +1,7 @@
 
 state={
 	id=162
-	name="STATE_162"
+	name="Styrian Castle"
 	provinces={
 		167 999 2100 7975 9249 9957 
 	}
