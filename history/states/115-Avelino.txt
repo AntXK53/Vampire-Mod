@@ -1,6 +1,6 @@
 state={
 	id=115
-	name="STATE_115"
+	name="Avelino"
 	provinces={
 		1080 1426 1546 1995 2107 2460 3421 3422 5958 6165 7394 13416 
 	}

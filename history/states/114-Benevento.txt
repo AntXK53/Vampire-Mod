@@ -1,6 +1,6 @@
 state={
 	id=114
-	name="STATE_114"
+	name="Benevento"
 	provinces={
 		165 648 1067 2645 3191 3870 13334 
 	}
