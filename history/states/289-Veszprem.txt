@@ -1,6 +1,6 @@
 state={
 	id=289
-	name="Veszperm"
+	name="Veszprem"
 	provinces={
 		961 1165 2405 3304 3694 3809 4682 5846 7164 10022 
 	}
