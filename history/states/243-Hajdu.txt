@@ -1,6 +1,6 @@
 state={
 	id=243
-	name="STATE_243"
+	name="Hajdu"
 	provinces={
 		1009 1791 2256 2811 3879 4116 5055 9895 9922 17015 
 	}

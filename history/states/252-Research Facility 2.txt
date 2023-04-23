@@ -1,6 +1,6 @@
 state={
 	id=252
-	name="STATE_252"
+	name="Research Facility 2"
 	provinces={
 		909 2112 3919 6001 6097 10194 10214 
 	}

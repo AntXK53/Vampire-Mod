@@ -1,7 +1,7 @@
 
 state={
 	id=285
-	name="STATE_285"
+	name="Southern Balaton"
 	provinces={
 		595 1838 1890 2145 2784 3054 3322 5936 7006 8225 8265 8273 10134 10170 
 	}

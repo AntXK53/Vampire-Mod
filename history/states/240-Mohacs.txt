@@ -1,6 +1,6 @@
 state={
 	id=240
-	name="STATE_240"
+	name="Mohacs"
 	provinces={
 		4070 4999 6965 8161 8655 10456 10516 10552 10563 
 	}

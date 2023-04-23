@@ -1,7 +1,7 @@
 
 state={
 	id=215
-	name="STATE_215"
+	name="Gabrovo"
 	provinces={
 		109 526 653 1952 2252 3157 5538 5940 7437 8132 12587 
 	}

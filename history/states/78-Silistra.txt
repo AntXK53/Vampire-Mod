@@ -1,6 +1,6 @@
 state={
 	id=78
-	name="STATE_78"
+	name="Silistra"
 	provinces={
 		23 415 2069 2573 3474 3593 6963 8762 9361 11605 
 	}

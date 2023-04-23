@@ -1,6 +1,6 @@
 state={
 	id=172
-	name="STATE_172"
+	name="Vampiric Coast"
 	provinces={
 		500 703 2003 2055 2888 3472 7008 10612 17068 17072 
 	}
