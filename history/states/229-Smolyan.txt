@@ -1,6 +1,6 @@
 state={
 	id=229
-	name="STATE_229"
+	name="Smolyan"
 	provinces={
 		1346 2258 3450 4338 8187 13216 
 	}

@@ -1,6 +1,6 @@
 state={
 	id=249
-	name="STATE_249"
+	name="Portal to Hell"
 	provinces={
 		3080 5196 10155 17165 
 	}

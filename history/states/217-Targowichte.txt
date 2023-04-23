@@ -1,7 +1,7 @@
 
 state={
 	id=217
-	name="STATE_217"
+	name="Targowichte"
 	provinces={
 		299 1189 1434 1632 1719 3622 5501 7309 7985 8440 12100 12182 12326 
 	}
