@@ -277,11 +277,7 @@
  STATE_276:0 "Western Syrmia"
  STATE_277:0 "Eastern Slovenia"
  STATE_278:0 "Gyor"
-<<<<<<< Updated upstream
- STATE_279:0 "Tatabanya"
-=======
  STATE_279:0 "Tatabanya
->>>>>>> Stashed changes
  STATE_280:0 "Sopron"
  STATE_281:0 "Balaton"
  STATE_282:0 "Zalagerszeg"
@@ -293,13 +289,6 @@
  STATE_288:0 "Nagykanizsa"
  STATE_289:0 "Veszprem"
  STATE_290:0 "Kosice"
-<<<<<<< Updated upstream
- STATE_291:0 "Carpathian Ruthenia"
- STATE_292:0 "Csongrad"
- STATE_293:0 "Southern Slovakia"
- STATE_294:0 "Subotica"
- STATE_295:0 "Miskolc"
-=======
  STATE_291:0 "Carinthian Ruthenia"
  STATE_292:0 "Csongrad"
  STATE_293:0 "Southern Slovakia"
@@ -314,9 +303,11 @@
  STATE_302:0 "Backi"
  STATE_303:0 "Dracula's Castle"
  STATE_304:0 "Slavonia"
- STATE_305:0 "joe"
- STATE_306:0 "biden"
- STATE_307:0 "sussy"
- STATE_308:0 "balls"
- STATE_309:0 "fortnite"
->>>>>>> Stashed changes
+ STATE_305:0 "Bijeljina"
+ STATE_306:0 "Brod"
+ STATE_307:0 "Raska"
+ STATE_308:0 "Sumadija"
+ STATE_309:0 "Southern Serbia"
+ STATE_310:0 "Maremures"
+ STATE_311:0 "Zlatiborski"
+ STATE_312:0 "Eastern Serbia"
