@@ -5,7 +5,13 @@ state={
 	provinces={
 		188 416 515 784 902 919 1437 1732 2317 2533 3155 3201 4169 4360 5160 5397 5403 5412 5547 6072 7804 7809 8235 8713 8851 8868 12985 13043 13061 13068 13100 13108 17098 17100 17102 
 	}
-	manpower=0
+	
+    history={
+		owner = PAP
+		add_core_of = PAP
+	}
+    
+	manpower=1
+	state_category=town
 	buildings_max_level_factor=1.000
-	local_supplies=0.000
 }
