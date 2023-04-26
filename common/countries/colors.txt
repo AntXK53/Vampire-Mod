@@ -114,3 +114,8 @@ AME = {
 	color = rbg { 63  59  137 }
 	color_ui = rgb { 65  60  137 }
 }
+
+POP = {
+	color = rgb { 211  197  74 }
+	color_ui = rgb { 215  200  75 }
+}

@@ -21,7 +21,10 @@
  HUN:0 "Hungary"
  HUN_DEF:0 "Hungary"
  HUN_ADJ:0 "Hungarian"
- 
+ POP:0 "Papal States"
+ POP_DEF:0 "Papal States"
+ POP_ADJ:0 "Papal"
+
  ###Yugloslav nations
  SER:0 "Serbia"
  SER_DEF:0 "Serbia"

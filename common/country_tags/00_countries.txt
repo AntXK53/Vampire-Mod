@@ -1,2 +1,3 @@
 GER	= "countries/Germany.txt"
 AME = "countries/America.txt"
+POP = "countries/Papal States.txt"
