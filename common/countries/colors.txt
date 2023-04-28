@@ -119,3 +119,17 @@ POP = {
 	color = rgb { 211  197  74 }
 	color_ui = rgb { 215  200  75 }
 }
+
+NAP = {
+	color = rgb { 76 211 89 }
+	color_ui = rgb { 78 213 90 }
+}
+
+OTT = {
+	color = rbg { 1 173 47 }
+	color_ui = rbg { 5 175 50 }
+}
+
+AGN = {
+	color = rbg { 132 173 71 }
+	color_ui = rgb { 135 175 75 }

@@ -24,6 +24,9 @@
  POP:0 "Papal States"
  POP_DEF:0 "Papal States"
  POP_ADJ:0 "Papal"
+ NAP:0 "Napoli"
+ NAP_DEF:0 "Napoli"
+ NAP_ADJ:0 "Neapolitan"
 
  ###Yugloslav nations
  SER:0 "Serbia"
@@ -76,3 +79,9 @@
  AME:0 "America"
  AME_DEF:0 "America"
  AME_ADJ:0 "American"
+ OTM:0 "Ottomans"
+ OTM_DEF:0 "Ottomans"
+ OTM_ADJ:0 "Ottoman"
+ AGN:0 "Aegean Islands"
+ AGN_DEF:0 "Aegean Islands"
+ AGN_ADJ:0 "Aegean"

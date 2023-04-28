@@ -5,6 +5,12 @@ state={
 	provinces={
 		859 1525 1742 1772 1837 2231 2292 2323 2373 2752 3072 3114 3650 4139 4554 4707 4723 4973 5549 6620 7307 7591 7791 8394 9088 9124 9179 13769 13774 13791 13796 13799 13802 13804 13998 
 	}
+	
+    history={
+		owner = OTM
+		add_core_of = OTM
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

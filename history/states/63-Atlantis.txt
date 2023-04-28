@@ -4,6 +4,12 @@ state={
 	provinces={
 		7420 7901 14068 14072 
 	}
+	
+    history={
+		owner = AGN
+		add_core_of = AGN
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
