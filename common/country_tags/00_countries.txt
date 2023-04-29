@@ -1,6 +1,6 @@
 GER	= "countries/Germany.txt"
 AME	= "countries/America.txt"
 POP	= "countries/Papal States.txt"
-NAP	= "countries/Napoli.txt"
+NAP	= "countries/Naples.txt"
 OTM	= "countries/Ottomans.txt"
-AGN 	= "countries/Aegean Islands.txt"
+AGN 	= "countries/Aegean Republic.txt"
