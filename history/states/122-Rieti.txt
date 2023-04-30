@@ -4,6 +4,12 @@ state={
 	provinces={
 		49 90 887 1133 1931 3721 4589 5323 5510 8580 12693 12783 12912 
 	}
+    
+    history={
+		owner = POP
+		add_core_of = POP
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

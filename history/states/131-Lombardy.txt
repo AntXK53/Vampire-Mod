@@ -4,6 +4,12 @@ state={
 	provinces={
 		45 623 1374 2827 4109 4374 6567 7119 7264 7567 8058 9243 10568 10685 10764 10814 10827 10944 
 	}
+    
+    history={
+		owner = ISC
+		add_core_of = ISC
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -4,6 +4,12 @@ state={
 	provinces={
 		1223 2384 2586 4145 5667 5668 5990 6267 6547 6631 7824 8910 8914 13548 13560 
 	}
+    
+    history={
+		owner = KTS
+		add_core_of = KTS
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

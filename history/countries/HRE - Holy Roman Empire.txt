@@ -1,4 +1,4 @@
-capital = 63
+capital = 1
 
 oob = "standard_templates"
 
@@ -16,13 +16,13 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 100
-	fascism = 0
+	democratic = 0
+	fascism = 73
 	communism = 0
 	neutrality = 0
 	vampirism = 0
-	orthodox = 0
+	orthodox = 15
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
+	nationalism = 12
 }

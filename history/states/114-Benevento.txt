@@ -4,6 +4,12 @@ state={
 	provinces={
 		165 648 1067 2645 3191 3870 13334 
 	}
+    
+    history={
+		owner = NAP
+		add_core_of = NAP
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -2,9 +2,9 @@
 
 ###Central/Western Europe
 
-GER = {
-	color = rgb { 147 130 110 }
-	color_ui = rgb { 147 130 110 }
+HRE = {
+	color = rgb { 170 128 59 }
+	color_ui = rgb { 172 130 61 }
 }
 
 ITA = {
@@ -172,4 +172,24 @@ ATO = {
 
 MCD = {
 	color = rgb { 66 53 122 }
-	color_ui = rgb {69 55 125 }
+	color_ui = rgb { 69 55 125 }
+}
+
+KTS = {
+	color = rgb { 145 134 39 }
+	color_ui = rgb { 147 136 41 }
+}
+
+TUS = {
+	color = rgb { 50 154 173 }
+	color_ui = rgb { 52 156 175 }
+}
+
+ISC = {
+	color = rgb { 22 91 32 }
+	color_ui = rgb { 24 93 35 }
+}
+
+VNC = {
+	color = rgb { 145 39 86 }
+	color_ui = rgb { 147 41 89 }

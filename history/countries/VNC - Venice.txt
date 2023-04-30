@@ -1,4 +1,4 @@
-capital = 1
+capital = 12
 
 oob = "standard_templates"
 
@@ -13,11 +13,15 @@ set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	democratic = 100
+	fascism = 0
+	communism = 0
+	neutrality = 0
+	vampirism = 0
+	orthodox = 0
+	demonism = 0
+	witchcraft = 0
 }

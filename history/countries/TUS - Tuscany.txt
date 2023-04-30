@@ -1,4 +1,4 @@
-capital = 63
+capital = 117
 
 oob = "standard_templates"
 
@@ -24,5 +24,4 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
 }

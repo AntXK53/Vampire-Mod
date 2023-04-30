@@ -4,6 +4,12 @@ state={
 	provinces={
 		489 761 870 1405 1432 1691 1957 2022 2194 2197 2662 3747 3947 4149 5051 5213 5309 5409 5843 6406 6639 6660 7762 7898 8739 12932 13011 13095 
 	}
+    
+    history={
+		owner = POP
+		add_core_of = POP
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

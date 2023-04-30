@@ -4,6 +4,12 @@ state={
 	provinces={
 		218 2313 2563 2599 2755 2786 3151 3166 3239 3416 3556 3910 4043 4795 5264 5479 6254 7070 7276 7811 7925 8443 8526 10221 10267 10363 10436 10448 10500 
 	}
+    
+    history={
+		owner = VNC
+		add_core_of = VNC
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
