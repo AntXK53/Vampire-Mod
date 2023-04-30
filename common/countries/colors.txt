@@ -133,3 +133,43 @@ OTT = {
 AGN = {
 	color = rbg { 132 173 71 }
 	color_ui = rgb { 135 175 75 }
+}
+
+CON = {
+	color = rgb { 122 23 94 }
+	color_ui = rbg { 125 25 96 }
+}
+
+KNG = {
+	color = rbg { 221 226 72 }
+	color_ui = rgb { 225 228 75 }
+}
+
+THR = {
+	color = rgb { 53 30 122 }
+	color_ui = rgb { 55 32 124 }
+}
+
+SKE = {
+	color = rgb { 91 87 82 }
+	color_ui = rgb { 93 90 84 }
+}
+
+KAV = {
+	color = rgb { 40 97 119 }
+	color_ui = rgb { 42 100 122 }
+}
+
+CLK = {
+	color = rgb { 213 255 61 }
+	color_ui = rgb { 215 255 63 }
+}
+
+ATO = {
+	color = rgb { 131 63 165 }
+	color_ui = rgb { 133 65 167 }
+}
+
+MCD = {
+	color = rgb { 66 53 122 }
+	color_ui = rgb {69 55 125 }

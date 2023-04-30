@@ -67,6 +67,16 @@ bookmarks = {
 			}
 		}
         
+        "CON"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
 		
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
@@ -74,7 +84,7 @@ bookmarks = {
 		
 		# minors from DLC ####
         
-        "SLV"={
+        "KNG"={
             minor = yes
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -85,7 +95,7 @@ bookmarks = {
 			}
 		}
         
-        "CRO"={
+        "THR"={
             minor = yes
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
