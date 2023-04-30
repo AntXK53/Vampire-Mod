@@ -5,7 +5,17 @@ state={
 	provinces={
 		2009 5008 5332 5678 6891 6935 7483 8119 8477 13410 13413 13422 13424 13430 13434 13439 13441 13443 13461 
 	}
+    
+    history={
+		owner = ABN
+		add_core_of = ABN
+	}
+    
 	manpower=0
+
+	state_category = wasteland
+	impassable = yes
+
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

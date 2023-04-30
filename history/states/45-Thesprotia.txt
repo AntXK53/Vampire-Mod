@@ -5,6 +5,12 @@ state={
 	provinces={
 		211 241 1003 2434 2490 2671 2740 3501 3935 4184 4488 5050 5057 5232 6781 13721 13740 13741 
 	}
+    
+    history={
+		owner = KOG
+		add_core_of = KOG
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

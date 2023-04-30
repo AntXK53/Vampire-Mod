@@ -1,4 +1,4 @@
-capital = 65
+capital = 137
 
 oob = "standard_templates"
 
@@ -10,13 +10,13 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = nationalism
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 7
+	democratic = 100
 	fascism = 0
 	communism = 0
 	neutrality = 0
@@ -24,5 +24,5 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 93
+	nationalism = 0
 }

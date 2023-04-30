@@ -4,6 +4,12 @@ state={
 	provinces={
 		485 641 928 1506 1907 2523 4364 4710 5166 9330 9362 13736 17147 
 	}
+    
+    history={
+		owner = GCM
+		add_core_of = GCM
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

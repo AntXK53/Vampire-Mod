@@ -193,3 +193,59 @@ ISC = {
 VNC = {
 	color = rgb { 145 39 86 }
 	color_ui = rgb { 147 41 89 }
+}
+
+TYR = {
+	color = rgb { 49  145  73 }
+	color_ui = rgb { 51 147 75 }
+}
+
+IST = {
+	color = rgb { 255 192 58 }
+	color_ui = rgb { 255 194 60 }
+}
+
+DEL = {
+	color = rgb { 122 30 52 }
+	color_ui = rgb { 125 33 55 }
+}
+
+ABN = {
+	color = rgb { 255 104 104 }
+	color_ui = rgb { 255 107 107 }
+}
+
+BYZ = {
+	color = rgb { 106 57 119 }
+	color_ui = rgb { 19 60 121 }
+}
+
+ATE = {
+	color = rgb { 96 104 255 }
+	color_ui = rgb { 99 107 255 }
+}
+
+OLY = {
+	color = rgb { 85 119 85 }
+	color_ui = rgb { 88 121 88 }
+}
+
+SPT = {
+	color = rgb { 122 63 0 }
+	color_ui = rgb { 125 66 3 }
+}
+
+DMH = {
+	color = rgb { 91 37 42 }
+	color_ui = rgb { 95 41 44 }
+}
+
+KOG = {
+	color = rgb { 66 183 140 }
+	color_ui = rgb { 69 186 143 }
+}
+
+GCM = {
+	color = rgb { 122 0 6 }
+	color_ui = rgb { 125 3 9 }
+}

@@ -4,6 +4,12 @@ state={
 	provinces={
 		1166 2193 2970 4093 6425 8213 8566 13823 13865 16895 
 	}
+    
+    history={
+		owner = OLY
+		add_core_of = OLY
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

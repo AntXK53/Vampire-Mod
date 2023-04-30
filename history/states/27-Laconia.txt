@@ -5,6 +5,12 @@ state={
 	provinces={
 		776 987 1050 1163 1366 2297 2850 3274 3493 3518 3769 3868 3978 4170 4230 5284 5486 5812 6640 6989 7366 7423 9217 13917 14074 14079 14081 
 	}
+    
+    history={
+		owner = SPT
+		add_core_of = SPT
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
