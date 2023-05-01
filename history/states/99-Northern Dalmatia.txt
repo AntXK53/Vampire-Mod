@@ -5,6 +5,12 @@ state={
 	provinces={
 		978 1795 2397 3002 4863 5608 5623 5959 5997 6050 6646 7140 7979 8258 9277 11855 11864 11876 11931 11961 12008 12033 12044 12098 12130 13948 17170 
 	}
+    
+    history={
+		owner = DAL
+		add_core_of = DAL
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

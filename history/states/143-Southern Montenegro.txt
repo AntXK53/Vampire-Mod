@@ -4,6 +4,12 @@ state={
 	provinces={
 		374 3491 4668 6294 7200 8148 8158 8323 8325 8515 8560 9447 12969 12996 13029 13069 13079 13092 16874 16901 16911 16954 17101 17103 17104 17105 
 	}
+    
+    history={
+		owner = DEX
+		add_core_of = DEX
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

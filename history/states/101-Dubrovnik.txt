@@ -5,6 +5,12 @@ state={
 	provinces={
 		244 252 2108 3500 3880 5815 6918 7284 7556 9419 12666 12718 12737 12749 12764 12770 12795 12806 12812 12865 12877 
 	}
+    
+    history={
+		owner = YCM
+		add_core_of = YCM
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

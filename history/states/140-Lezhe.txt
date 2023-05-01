@@ -4,6 +4,12 @@ state={
 	provinces={
 		355 490 789 3644 3646 4193 4265 4844 5242 5824 6171 6966 7298 7449 7764 7780 7949 8112 8456 9261 13052 13085 13086 13087 13090 13097 13105 13109 13110 13126 13142 13178 
 	}
+    
+    history={
+		owner = VAL
+		add_core_of = VAL
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

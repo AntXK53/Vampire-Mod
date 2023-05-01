@@ -5,6 +5,12 @@ state={
 	provinces={
 		167 999 2100 7975 9249 9957 
 	}
+    
+    history={
+		owner = STY
+		add_core_of = STY
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

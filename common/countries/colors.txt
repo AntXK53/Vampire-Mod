@@ -249,3 +249,43 @@ GCM = {
 	color = rgb { 122 0 6 }
 	color_ui = rgb { 125 3 9 }
 }
+
+VAL = {
+	color = rgb { 30 173 26 }
+	color_ui = rgb { 33 176 29 }
+}
+
+DEX = {
+	color = rgb { 206 55 47 }
+	color_ui = rgb { 209 58 50 }
+}
+
+YCM = {
+	color = rgb { 160 26 0 }
+	color_ui = rgb { 163 29 3 }
+}
+
+DAL = {
+	color = rgb { 62 57 91 }
+	color_ui = rgb { 65 60 93 }
+}
+
+SVN = {
+	color = rgb { 49  145  73 }
+	color_ui = rgb { 51 147 75 }
+}
+
+ALP = {
+	color = rgb { 49  145  73 }
+	color_ui = rgb { 51 147 75 }
+}
+
+STY = {
+	color = rgb { 65 193 97 }
+	color_ui = rgb { 69 196 100 }
+}
+
+ASR = {
+	color = rgb { 220 220 220 }
+	color_ui = rgb { 223 223 223 }
+}
