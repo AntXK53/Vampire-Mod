@@ -4,6 +4,12 @@ state={
 	provinces={
 		713 1022 1068 1105 1193 1891 3047 4028 4459 5143 5415 5448 5554 5727 6579 6887 7234 7982 8518 9081 9294 9992 10015 10021 10064 10077 10083 10105 
 	}
+    
+    history={
+		owner = HNG
+		add_core_of = HNG
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

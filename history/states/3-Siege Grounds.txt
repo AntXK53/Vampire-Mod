@@ -4,6 +4,12 @@ state={
 	provinces={
 		446 2050 2374 4806 9140 
 	}
+    
+    history={
+		owner = PBP
+		add_core_of = PBP
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

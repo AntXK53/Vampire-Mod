@@ -57,6 +57,12 @@
  ASR:0 "Kingdom of Austria"
  ASR_DEF:0 "Kingdom of Austria"
  ASR_ADJ:0 "Austrian"
+ PBP:0 "Protectorate of Budapest"
+ PBP_DEF:0 "Protectorate of Budapest"
+ PBP_ADJ:0 "Budapestian"
+ HNG:0 "Hungary"
+ HNG_DEF:0 "Hungary"
+ HNG_ADJ:0 "Hungarian"
 
  ###Yugloslav nations
  SER:0 "Serbia"
@@ -89,6 +95,9 @@
  SVN:0 "Protectorate of Slovenia"
  SVN_DEF:0 "Protectorate of Slovenia"
  SVN_ADJ:0 "Slovenian"
+ CRT:0 "Croatia"
+ CRT_DEF:0 "Croatia"
+ CRT_ADJ:0 "Croatian"
  
  ###Eastern/Southern Europe
  YUG:0 "Yugoslavia"

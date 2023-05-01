@@ -4,6 +4,12 @@ state={
 	provinces={
 		1989 3631 6555 9994 10008 
 	}
+    
+    history={
+		owner = PBP
+		add_core_of = PBP
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -1,0 +1,33 @@
+capital = 19
+
+oob = "standard_templates"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = nationalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 13
+	fascism = 0
+	communism = 0
+	neutrality = 10
+	vampirism = 0
+	orthodox = 0
+	demonism = 0
+	witchcraft = 0
+	nationalism = 77
+}
+
+set_autonomy = {
+	target = PBP
+	autonomous_state =  autonomy_integrated_puppet
+}
