@@ -304,3 +304,8 @@ HNG = {
 	color = rgb { 173 108 3 }
 	color_ui = rgb { 176 111 6 }
 }
+
+SLK = {
+	color = rgb { 117 160 165 }
+	color_ui = rgb { 120 163 168 }
+}

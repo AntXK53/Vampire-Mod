@@ -4,6 +4,12 @@ state={
 	provinces={
 		1887 2617 2800 2976 3623 4362 4643 4892 5660 5729 5760 6985 8136 8482 9468 9762 9801 9815 
 	}
+    
+    history={
+		owner = SLK
+		add_core_of = SLK
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
