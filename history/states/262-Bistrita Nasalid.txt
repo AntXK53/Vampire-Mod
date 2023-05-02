@@ -4,6 +4,12 @@ state={
 	provinces={
 		98 440 495 863 1752 1943 2143 2183 3454 3873 4660 5818 5927 6316 6981 7496 9113 9947 9954 10020 
 	}
+    
+    history={
+		owner = MRB
+		add_core_of = MRB
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

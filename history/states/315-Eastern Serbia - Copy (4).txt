@@ -5,6 +5,12 @@ state={
 	provinces={
 		346 366 593 1424 1561 1672 2249 2253 2709 3106 3690 4129 4152 4734 4771 5015 6069 6183 7488 7578 8376 8991 9307 10717 10785 10829 10912 10941 11047 11211 11249 11319 
 	}
+    
+    history={
+		owner = MSR
+		add_core_of = MSR
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

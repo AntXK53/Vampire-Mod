@@ -4,6 +4,12 @@ state={
 	provinces={
 		5526 8042 8107 9003 10812 10868 10893 10899 
 	}
+    
+    history={
+		owner = FMC
+		add_core_of = FMC
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

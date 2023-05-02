@@ -4,6 +4,12 @@ state={
 	provinces={
 		763 1682 1696 1847 2007 2828 2938 2956 3064 3139 3852 4289 4793 5237 6742 8000 8837 8888 9020 12636 12651 12656 12701 12711 12726 12739 12757 12781 12821 
 	}
+    
+    history={
+		owner = KOB
+		add_core_of = KOB
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

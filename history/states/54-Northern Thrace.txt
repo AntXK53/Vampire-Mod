@@ -5,6 +5,12 @@ state={
 	provinces={
 		342 382 574 826 1298 1556 1667 1804 1875 1881 2167 2321 2807 3711 3838 4186 4250 4337 4564 4729 4944 5932 6568 7660 7853 12883 12979 13025 13031 13076 13136 
 	}
+    
+    history={
+		owner = VBU
+		add_core_of = VBU
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -4,6 +4,12 @@ state={
 	provinces={
 		7 153 428 1263 3265 3830 3979 4033 5492 5690 5773 5869 6309 7795 7862 9035 11476 11752 11757 11787 11948 11999 
 	}
+    
+    history={
+		owner = KRO
+		add_core_of = KRO
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

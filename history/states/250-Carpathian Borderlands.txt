@@ -5,6 +5,12 @@ state={
 	provinces={
 		205 602 896 969 1086 2757 3865 4507 4724 6783 6814 7175 8964 9974 9989 
 	}
+    
+    history={
+		owner = DMH
+		add_core_of = DMH
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

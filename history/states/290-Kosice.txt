@@ -4,6 +4,12 @@ state={
 	provinces={
 		133 455 604 998 2095 2345 2695 2790 3096 3133 3226 3302 4159 4255 4674 4712 5120 5644 5749 5814 6223 6431 7338 8129 8904 9024 9695 9698 9701 9728 9735 9761 9773 17032 
 	}
+    
+    history={
+		owner = VSL
+		add_core_of = VSL
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

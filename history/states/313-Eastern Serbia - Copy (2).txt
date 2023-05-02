@@ -5,6 +5,12 @@ state={
 	provinces={
 		1723 1997 3170 3522 3800 3904 4833 5656 7467 7473 7565 7617 7868 8078 8232 11198 11209 11213 11229 11242 11262 11276 11318 11343 11350 11351 11352 11378 11379 11382 11404 
 	}
+    
+    history={
+		owner = FMC
+		add_core_of = FMC
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

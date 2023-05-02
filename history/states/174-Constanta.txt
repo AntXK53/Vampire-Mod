@@ -5,6 +5,12 @@ state={
 	provinces={
 		131 311 561 811 1249 1821 2015 2048 2283 2665 2678 3746 3802 3942 4189 5114 5795 6118 7137 7621 7965 8201 11380 11470 11473 11591 11636 11648 16893 16992 
 	}
+    
+    history={
+		owner = DNM
+		add_core_of = DNM
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

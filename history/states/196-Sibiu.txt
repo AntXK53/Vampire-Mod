@@ -4,6 +4,11 @@ state={
 	provinces={
 		182 864 1710 2058 2124 2661 3130 3194 3232 3639 4290 4534 6005 6901 6940 7278 8670 10312 10491 10560 10601 
 	}
+    history={
+		owner = DRL
+		add_core_of = DRL
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

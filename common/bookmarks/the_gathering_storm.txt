@@ -4,10 +4,40 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "AME"
+		default_country = "MRB"
 		default = yes
 		
-		"AME"={
+		"MRB"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "ISC"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "STY"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "KTS"={
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -17,9 +47,9 @@ bookmarks = {
 			}
 		}
         
-        "POP"={
+        "DMH"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = demonism
 			ideas = {
 			}
 			focuses = {
@@ -27,9 +57,9 @@ bookmarks = {
 			}
 		}
         
-        "GER"={
+        "HNG"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = nationalism
 			ideas = {
 			}
 			focuses = {
@@ -37,39 +67,9 @@ bookmarks = {
 			}
 		}
         
-        "NAP"={
+        "ASR"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "OTM"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "AGN"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "CON"={
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = neutrality
 			ideas = {
 			}
 			focuses = {
@@ -84,7 +84,62 @@ bookmarks = {
 		
 		# minors from DLC ####
         
-        "KNG"={
+        "OTM"={
+            minor = yes
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "KOG"={
+            minor = yes
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "GCM"={
+            minor = yes
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "YCM"={
+            minor = yes
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "SPT"={
+            minor = yes
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+			}
+			focuses = {
+			
+			}
+		}
+        
+        "AME"={
             minor = yes
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -95,62 +150,7 @@ bookmarks = {
 			}
 		}
         
-        "THR"={
-            minor = yes
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "SER"={
-            minor = yes
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "BOS"={
-            minor = yes
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "KOS"={
-            minor = yes
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "MNT"={
-            minor = yes
-			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-			}
-			focuses = {
-			
-			}
-		}
-        
-        "MAC"={
+        "BYZ"={
             minor = yes
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic

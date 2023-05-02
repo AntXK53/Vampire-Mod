@@ -5,6 +5,12 @@ state={
 	provinces={
 		304 620 1121 1836 2088 2120 2244 4287 4749 4910 6159 7447 12968 12991 13033 13047 13074 
 	}
+    
+    history={
+		owner = VBU
+		add_core_of = VBU
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -4,6 +4,12 @@ state={
 	provinces={
 		500 703 2003 2055 2888 3472 7008 10612 17068 17072 
 	}
+    
+    history={
+		owner = DNM
+		add_core_of = DNM
+	}
+    
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
