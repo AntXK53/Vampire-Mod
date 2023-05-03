@@ -1,2 +1,15 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
--1;-1;;-1;-1;-1;-1;-1;-1
+7352;446;impassable;-1;-1;-1;-1;-1;;Hungarywall
+7352;4805;impassable;-1;-1;-1;-1;-1;;Hungarywall
+7352;4806;impassable;-1;-1;-1;-1;-1;;Hungarywall
+5059;7597;impassable;-1;-1;-1;-1;-1;;Hungarywall
+5799;7597;impassable;-1;-1;-1;-1;-1;;Hungarywall
+6897;7597;impassable;-1;-1;-1;-1;-1;;Hungarywall
+6897;9063;impassable;-1;-1;-1;-1;-1;;Hungarywall
+1989;9063;impassable;-1;-1;-1;-1;-1;;Hungarywall
+1989;5913;impassable;-1;-1;-1;-1;-1;;Hungarywall
+1989;7527;impassable;-1;-1;-1;-1;-1;;Hungarywall
+1989;7798;impassable;-1;-1;-1;-1;-1;;Hungarywall
+1989;1574;impassable;-1;-1;-1;-1;-1;;Hungarywall
+10008;1574;impassable;-1;-1;-1;-1;-1;;Hungarywall
+10008;10049;impassable;-1;-1;-1;-1;-1;;Hungarywall
