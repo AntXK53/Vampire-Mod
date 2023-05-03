@@ -8,9 +8,13 @@ state={
     history={
 		owner = ATE
 		add_core_of = ATE
+		victory_points = {
+			13829 40
+		}
 	}
     
-	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+        manpower=1567900
+        state_category = metropolis
 }

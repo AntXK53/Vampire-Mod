@@ -10,19 +10,19 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = orthodox
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 100
+	democratic = 0
 	fascism = 0
 	communism = 0
-	neutrality = 0
+	neutrality = 20
 	vampirism = 0
-	orthodox = 0
+	orthodox = 76
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
+	nationalism = 4
 }

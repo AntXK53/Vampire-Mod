@@ -1,4 +1,4 @@
-capital = 47
+capital = 41
 
 oob = "standard_templates"
 
@@ -25,4 +25,10 @@ set_popularities = {
 	demonism = 0
 	witchcraft = 0
 	nationalism = 0
+}
+
+# DIPLOMACY
+declare_war_on = {
+	target = GCM
+	type = civil_war
 }

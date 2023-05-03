@@ -78,7 +78,7 @@ ideologies = {
 			embargo_cost_factor = 1
 		}
 
-		ai_fascist = yes # uses the orthodox AI behaviour
+		ai_fascist = yes # uses the fascist AI behaviour
 		ai_ideology_wanted_units_factor = 1.65
 	}
 
@@ -114,9 +114,7 @@ ideologies = {
 			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
-			can_lower_tension = no
-			can_only_justify_war_on_threat_country = no
-			can_guarantee_other_ideologies = no
+			can_create_faction = yes
 		}
 
 		can_host_government_in_exile = yes
