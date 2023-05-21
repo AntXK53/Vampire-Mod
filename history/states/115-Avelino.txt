@@ -1,6 +1,6 @@
 state={
 	id=115
-	name="Avelino"
+	name="Avellino"
 	provinces={
 		1080 1426 1546 1995 2107 2460 3421 3422 5958 6165 7394 13416 
 	}
@@ -12,6 +12,6 @@ state={
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=42500
         state_category = town
 }
