@@ -1,0 +1,14 @@
+characters={
+	DRL_dracula={
+		name="Dracula"
+		portraits={
+			civilian={
+				large="GFX_portrait_drl_dracula"
+			}
+		}
+		country_leader={
+			ideology=draculean_vampirism
+			expire="1965.1.1.1"
+		}
+	}
+}

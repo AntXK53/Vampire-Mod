@@ -1,0 +1,14 @@
+characters={
+	ASR_otto_von_habsburg={
+		name="Otto Von Habsburg"
+		portraits={
+			civilian={
+				large="GFX_portrait_asr_otto_von_habsburg"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1965.1.1.1"
+		}
+	}
+}

@@ -2,6 +2,15 @@ ideologies = {
 
 	witchcraft = {
 
+		types = {
+
+			radical_mythology = {
+			}
+
+			open_mythology = {
+			}
+		}
+
 		dynamic_faction_names = {
 			"FACTION_NAME_FASCIST_1"
 			"FACTION_NAME_FASCIST_2"

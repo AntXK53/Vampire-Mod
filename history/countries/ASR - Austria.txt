@@ -7,6 +7,8 @@ set_technology = {
 	infantry_weapons = 1
 }
 
+recruit_character = ASR_otto_von_habsburg
+
 set_convoys = 20
 
 set_politics = {

@@ -1,0 +1,14 @@
+characters={
+	OTM_abdulmejid_ii={
+		name="Abdulmejid II"
+		portraits={
+			civilian={
+				large="GFX_portrait_otm_abdulmejid_ii"
+			}
+		}
+		country_leader={
+			ideology=cultural_nationalism
+			expire="1965.1.1.1"
+		}
+	}
+}

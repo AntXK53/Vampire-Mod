@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"MRB"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = nationalism
+			ideology = vampirism
 			ideas = {
 			}
 			focuses = {
@@ -29,7 +29,7 @@ bookmarks = {
         
         "STY"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = nationalism
+			ideology = vampirism
 			ideas = {
 			}
 			focuses = {
@@ -37,9 +37,9 @@ bookmarks = {
 			}
 		}
         
-        "KTS"={
+        "DRL"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = vampirism
 			ideas = {
 			}
 			focuses = {
@@ -47,9 +47,9 @@ bookmarks = {
 			}
 		}
         
-        "DMH"={
+        "FMC"={
 			history = "OTHER_GATHERING_STORM_DESC"
-			ideology = demonism
+			ideology = witchcraft
 			ideas = {
 			}
 			focuses = {
@@ -76,6 +76,7 @@ bookmarks = {
 			
 			}
 		}
+        
         
 		
 		"---"={

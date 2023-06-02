@@ -1,0 +1,14 @@
+characters={
+	HNG_miklos_horthy={
+		name="Miklós Horthy"
+		portraits={
+			civilian={
+				large="GFX_portrait_hng_miklos_horthy"
+			}
+		}
+		country_leader={
+			ideology=civic_nationalism
+			expire="1965.1.1.1"
+		}
+	}
+}

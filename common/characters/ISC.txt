@@ -1,0 +1,14 @@
+characters={
+	ISC_benito_mussolini={
+		name="Benito Mussolini"
+		portraits={
+			civilian={
+				large="GFX_portrait_isc_benito_mussolini"
+			}
+		}
+		country_leader={
+			ideology=cultural_nationalism
+			expire="1965.1.1.1"
+		}
+	}
+}

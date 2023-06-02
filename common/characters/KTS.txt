@@ -1,0 +1,14 @@
+characters={
+	KTS_prince_ferdinand_pius={
+		name="Prince Ferdinand Pius"
+		portraits={
+			civilian={
+				large="GFX_portrait_kts_prince_ferdinand_pius"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1965.1.1.1"
+		}
+	}
+}

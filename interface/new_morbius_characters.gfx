@@ -1,0 +1,41 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_portrait_mrb_michael_morbius"
+		texturefile = "gfx/leaders/MRB/portrait_mrb_michael_morbius.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_isc_benito_mussolini"
+		texturefile = "gfx/leaders/ISC/portrait_isc_benito_mussolini.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_otm_abdulmejid_ii"
+		texturefile = "gfx/leaders/OTM/portrait_otm_abdulmejid_ii.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_hng_miklos_horthy"
+		texturefile = "gfx/leaders/HNG/portrait_hng_miklos_horthy.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asr_otto_von_habsburg"
+		texturefile = "gfx/leaders/ASR/portrait_asr_otto_von_habsburg.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_drl_dracula"
+		texturefile = "gfx/leaders/DRL/portrait_drl_dracula.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_fmc_helen_duncan"
+		texturefile = "gfx/leaders/FMC/portrait_fmc_helen_duncan.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_sty_council_of_sisters"
+		texturefile = "gfx/leaders/STY/portrait_sty_council_of_sisters.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_kts_prince_ferdinand_pius"
+		texturefile = "gfx/leaders/KTS/portrait_kts_prince_ferdinand_pius.dds"
+	}
+}

@@ -7,6 +7,8 @@ set_technology = {
 	infantry_weapons = 1
 }
 
+recruit_character = DRL_dracula
+
 set_convoys = 20
 
 set_politics = {

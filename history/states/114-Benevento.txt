@@ -6,8 +6,8 @@ state={
 	}
     
     history={
-		owner = NAP
-		add_core_of = NAP
+		owner = KTS
+		add_core_of = KTS
 	}
     
 	buildings_max_level_factor=1.000

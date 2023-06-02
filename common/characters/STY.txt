@@ -1,0 +1,14 @@
+characters={
+	STY_council_of_sisters={
+		name="Council of Sisters"
+		portraits={
+			civilian={
+				large="GFX_portrait_sty_council_of_sisters"
+			}
+		}
+		country_leader={
+			ideology=neutral_vampirism
+			expire="1965.1.1.1"
+		}
+	}
+}

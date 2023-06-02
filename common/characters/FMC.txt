@@ -1,0 +1,14 @@
+characters={
+	FMC_helen_duncan={
+		name="Helen Duncan"
+		portraits={
+			civilian={
+				large="GFX_portrait_fmc_helen_duncan"
+			}
+		}
+		country_leader={
+			ideology=open_mythology
+			expire="1965.1.1.1"
+		}
+	}
+}

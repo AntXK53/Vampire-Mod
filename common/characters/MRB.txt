@@ -1,0 +1,14 @@
+characters={
+	MRB_michael_morbius={
+		name="Michael Morbius"
+		portraits={
+			civilian={
+				large="GFX_portrait_mrb_michael_morbius"
+			}
+		}
+		country_leader={
+			ideology=morbian_vampirism
+			expire="1965.1.1.1"
+		}
+	}
+}

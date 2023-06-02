@@ -6,8 +6,8 @@ state={
 	}
     
     history={
-		owner = CRT
-		add_core_of = CRT
+		owner = YCM
+		add_core_of = YCM
 	}
     
 	buildings_max_level_factor=1.000
