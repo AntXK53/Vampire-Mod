@@ -26,7 +26,7 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
+	nationalist = 0
 }
 
 # DIPLOMACY
@@ -35,6 +35,22 @@ set_autonomy = {
 	autonomous_state =  autonomy_puppet
 }
 set_autonomy = {
+	target = WLD
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = BHA
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = RML
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
 	target = DEX
+	autonomous_state =  autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = CRF
 	autonomous_state =  autonomy_integrated_puppet
 }

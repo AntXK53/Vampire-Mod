@@ -6,12 +6,14 @@ state={
 		379 650 1029 1051 1333 2738 4083 5042 5272 5830 6307 6711 6729 9157 11202 11411 11485 
 	}
     history={
-		owner = DRL
-		add_core_of = DRL
+		owner = BHA
+		add_core_of = BHA
+		victory_points = {
+			11411 40
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
-        state_category = town
+        manpower=1411500
+        state_category = metropolis
 }

@@ -26,5 +26,34 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 14
+	nationalist = 14
+}
+
+set_autonomy = {
+	target = ROT
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = HGC
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = MAS
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = RBX
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = RB3
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = RB2
+	autonomous_state =  autonomy_puppet
+}
+set_autonomy = {
+	target = RB1
+	autonomous_state =  autonomy_puppet
 }

@@ -5,12 +5,12 @@ state={
 		354 946 1207 1331 2002 2722 2823 4538 4834 6371 7206 8286 8945 10030 
 	}
     history={
-		owner = DRL
-		add_core_of = DRL
+		owner = CRF
+		add_core_of = CRF
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=50000
         state_category = town
 }

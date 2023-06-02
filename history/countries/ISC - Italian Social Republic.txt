@@ -12,7 +12,7 @@ recruit_character = ISC_benito_mussolini
 set_convoys = 20
 
 set_politics = {
-	ruling_party = nationalism
+	ruling_party = nationalist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -26,5 +26,5 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 100
+	nationalist = 100
 }

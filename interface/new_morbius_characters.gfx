@@ -38,4 +38,16 @@ spriteTypes = {
 		name = "GFX_portrait_kts_prince_ferdinand_pius"
 		texturefile = "gfx/leaders/KTS/portrait_kts_prince_ferdinand_pius.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_pop_pius_xii"
+		texturefile = "gfx/leaders/POP/portrait_pop_pius_xii.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ske_lord_skeleton"
+		texturefile = "gfx/leaders/SKE/portrait_ske_lord_skeleton.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ame_douglas_macarthur"
+		texturefile = "gfx/leaders/AME/portrait_ame_douglas_macarthur.dds"
+	}
 }

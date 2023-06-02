@@ -7,8 +7,8 @@ state={
 	}
     
     history={
-		owner = YCM
-		add_core_of = YCM
+		owner = MTG
+		add_core_of = MTG
 	}
     
 	buildings_max_level_factor=1.000

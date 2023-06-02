@@ -1,0 +1,14 @@
+characters={
+	POP_pius_xii={
+		name="Pius XII"
+		portraits={
+			civilian={
+				large="GFX_portrait_pop_pius_xii"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="1965.1.1.1"
+		}
+	}
+}

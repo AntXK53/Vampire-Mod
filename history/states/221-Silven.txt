@@ -1,6 +1,6 @@
 state={
 	id=221
-	name="Silven"
+	name="Sliven"
 	provinces={
 		79 493 1092 1217 1646 2005 2633 2985 3420 4276 4548 6479 6831 8084 9288 12631 12680 12816 17091 
 	}
@@ -12,6 +12,6 @@ state={
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=131400
         state_category = town
 }

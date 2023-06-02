@@ -5,12 +5,12 @@ state={
 		82 143 274 333 520 1002 1540 2215 2663 3006 3620 3841 4801 4983 5392 6084 7356 8903 9266 9291 9446 10777 10805 10864 11093 
 	}
     history={
-		owner = DRL
-		add_core_of = DRL
+		owner = BHA
+		add_core_of = BHA
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=313400
         state_category = town
 }

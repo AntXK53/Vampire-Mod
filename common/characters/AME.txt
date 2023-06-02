@@ -1,0 +1,14 @@
+characters={
+	AME_douglas_macarthur={
+		name="Douglas MacArthur"
+		portraits={
+			civilian={
+				large="GFX_portrait_ame_douglas_macarthur"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+		}
+	}
+}

@@ -9,10 +9,11 @@ state={
     history={
 		owner = DNM
 		add_core_of = DNM
+		add_core_of = CRT
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=244500
         state_category = town
 }

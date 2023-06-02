@@ -379,3 +379,78 @@ FMC = {
 	color = rgb { 134 57 160 }
 	color_ui = rgb { 137 60 163 }
 }
+
+MTG = {
+	color = rgb { 216  101  62 }
+	color_ui = rgb { 218 104 64 }
+}
+
+SVR = {
+	color = rgb { 0  158  71 }
+	color_ui = rgb { 3 160 73 }
+}
+
+RBX = {
+	color = rgb { 66 86 255 }
+	color_ui = rgb { 69 89 255 }
+}
+
+RB3 = {
+	color = rgb { 66 86 255 }
+	color_ui = rgb { 69 89 255 }
+}
+
+RB2 = {
+	color = rgb { 66 86 255 }
+	color_ui = rgb { 69 89 255 }
+}
+
+RB1 = {
+	color = rgb { 66 86 255 }
+	color_ui = rgb { 69 89 255 }
+}
+
+FVA = {
+	color = rgb { 88 196 78 }
+	color_ui = rgb { 90 199 80 }
+}
+
+HGC = {
+	color = rgb { 74 74 173 }
+	color_ui = rgb { 77 77 176 }
+}
+
+ROT = {
+	color = rgb { 12 145 255 }
+	color_ui = rgb { 15 147 255 }
+}
+
+MAS = {
+	color = rgb { 46 80 193 }
+	color_ui = rgb { 49 83 196 }
+}
+
+RML = {
+	color = rgb { 209 41 83 }
+	color_ui = rgb { 2011 44 86 }
+}
+
+BHA = {
+	color = rgb { 188 76 64 }
+	color_ui = rgb { 190 79 67 }
+}
+
+WLD = {
+	color = rgb { 209 100 100 }
+	color_ui = rgb { 211 103 103 }
+}
+
+CRF = {
+	color = rgb { 211 99 112 }
+	color_ui = rgb { 214 101 114 }
+}
+
+SGR = {
+	color = rgb { 121 183 97 }
+	color_ui = rgb { 124 186 100 }
+}

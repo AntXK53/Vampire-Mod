@@ -24,11 +24,5 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
-}
-
-# DIPLOMACY
-declare_war_on = {
-	target = GCM
-	type = civil_war
+	nationalist = 0
 }

@@ -5,12 +5,12 @@ state={
 		287 851 1181 1751 1807 2864 3078 3216 3878 4544 4558 4578 4663 4677 4889 5421 6661 7509 8687 11158 11255 11424 11503 
 	}
     history={
-		owner = DRL
-		add_core_of = DRL
+		owner = RML
+		add_core_of = RML
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=311400
         state_category = town
 }

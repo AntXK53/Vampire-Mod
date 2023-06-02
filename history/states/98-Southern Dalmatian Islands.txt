@@ -8,6 +8,7 @@ state={
     history={
 		owner = YCM
 		add_core_of = YCM
+		add_core_of = DAL
 	}
     
 	buildings_max_level_factor=1.000

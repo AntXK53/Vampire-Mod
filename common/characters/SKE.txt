@@ -1,0 +1,14 @@
+characters={
+	SKE_lord_skeleton={
+		name="Lord of the Bones"
+		portraits={
+			civilian={
+				large="GFX_portrait_ske_lord_skeleton"
+			}
+		}
+		country_leader={
+			ideology=ultranationalism
+			expire="1965.1.1.1"
+		}
+	}
+}

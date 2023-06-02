@@ -24,5 +24,11 @@ set_popularities = {
 	orthodox = 0
 	demonism = 0
 	witchcraft = 0
-	nationalism = 0
+	nationalist = 0
+}
+
+# DIPLOMACY
+declare_war_on = {
+	target = KOG
+	type = civil_war
 }

@@ -24,5 +24,5 @@ set_popularities = {
 	orthodox = 15
 	demonism = 0
 	witchcraft = 0
-	nationalism = 12
+	nationalist = 12
 }

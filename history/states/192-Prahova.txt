@@ -5,12 +5,14 @@ state={
 		465 471 804 2254 2585 2693 2767 3796 4016 4369 4397 4461 4989 6013 6174 6731 7463 7600 8150 8880 9278 10754 10968 10986 11034 
 	}
     history={
-		owner = DRL
-		add_core_of = DRL
+		owner = WLD
+		add_core_of = WLD
+		victory_points = {
+			11034 35
 	}
     
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=1
+        manpower=514600
         state_category = town
 }
