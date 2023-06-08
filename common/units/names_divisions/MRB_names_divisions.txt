@@ -1,0 +1,41 @@
+MRB_INF_01 = 
+{
+	name = "Infantry Division"
+
+	for_countries = { MRB }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { MRB_INF_01 }
+
+	fallback_name = "%s Morbian Guards"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%s Morbian Guards" }
+		2 = { "%s Morbian Guards" }
+		3 = { "%s Morbian Guards" }
+		4 = { "%s Morbian Guards" }
+		5 = { "%s Morbian Guards" }
+		6 = { "%s Morbian Guards" }
+		7 = { "%s Morbian Guards" }
+		8 = { "%s Morbian Guards" }
+		9 = { "%s Morbian Guards" }
+		10 = { "%s Morbian Guards" }
+		11 = { "%s Morbian Guards" }
+		12 = { "%s Morbian Guards" }
+		13 = { "%s Morbian Guards" }
+		14 = { "%s Morbian Guards" }
+		15 = { "%s Morbian Guards" }
+		16 = { "%s Morbian Guards" }
+		17 = { "%s Morbian Guards" }
+		18 = { "%s Morbian Guards" }
+		19 = { "%s Morbian Guards" }
+		20 = { "%s Morbian Guards" }		
+	}
+}

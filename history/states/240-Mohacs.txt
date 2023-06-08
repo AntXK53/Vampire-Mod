@@ -8,6 +8,11 @@ state={
     history={
 		owner = HNG
 		add_core_of = HNG
+			buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
 	}
     
 	buildings_max_level_factor=1.000

@@ -1,0 +1,25 @@
+ideas = {
+    country = {
+        MRB_civilian_nation = {
+            picture = MRB_civilian_nation
+            modifier = {
+				consumer_goods_factor = 0.3
+				local_resources_factor = 0.2
+				conscription_factor = -0.5
+				war_support_factor = -0.05
+				land_doctrine_cost_factor = 0.5
+				training_time_factor = 0.2
+			}
+		}
+        MRB_hungarian_threat = {
+            picture = MRB_hungarian_threat
+            modifier = {
+				drift_defence_factor = 0.25
+			}
+			targeted_modifier = {
+				tag = HNG
+				defense_bonus_against = 0.2
+			}
+		}
+    }
+}

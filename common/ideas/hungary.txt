@@ -1,0 +1,22 @@
+ideas = {
+    country = {
+        HNG_terrible_defeat = {
+            picture = HNG_terrible_defeat
+            modifier = {
+				stability_factor = -0.05
+				conscription_factor = 0.5
+				industrial_capacity_factory = 0.2
+				war_support_factor = 0.3
+				political_power_gain = 1
+			}
+			targeted_modifier = {
+				tag = MRB
+				attack_bonus_against = 0.3
+				defense_bonus_against = 0.2
+			}
+			rule = {
+				can_create_factions = yes
+			}
+		}
+	}
+}

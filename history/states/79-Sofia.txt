@@ -10,6 +10,7 @@ state={
 		add_core_of = KOB
 		victory_points = {
 			60 40
+		}
 	}
     
 	buildings_max_level_factor=1.000

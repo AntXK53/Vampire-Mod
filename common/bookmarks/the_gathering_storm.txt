@@ -8,9 +8,11 @@ bookmarks = {
 		default = yes
 		
 		"MRB"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "MRB_GATHERING_STORM_DESC"
 			ideology = vampirism
 			ideas = {
+				MRB_civilian_nation
+				MRB_hungarian_threat
 			}
 			focuses = {
 			
@@ -58,9 +60,10 @@ bookmarks = {
 		}
         
         "HNG"={
-			history = "OTHER_GATHERING_STORM_DESC"
+			history = "HNG_GATHERING_STORM_DESC"
 			ideology = nationalism
 			ideas = {
+			HNG_terrible_defeat
 			}
 			focuses = {
 			
@@ -123,6 +126,8 @@ bookmarks = {
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
+				YCM_collapsing_nation
+				YCM_pathetic_leader
 			}
 			focuses = {
 			

@@ -1,0 +1,14 @@
+characters={
+	ycm_milan_gorkic={
+		name="Milan Gorkić"
+		portraits={
+			civilian={
+				large="GFX_portrait_ycm_milan_gorkic"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+		}
+	}
+}

@@ -11,4 +11,16 @@ characters={
 			expire="1965.1.1.1"
 		}
 	}
+	SKE_uni={
+		name="Uni"
+		portraits={
+			civilian={
+				large="GFX_portrait_ske_uni"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+		}
+	}
 }

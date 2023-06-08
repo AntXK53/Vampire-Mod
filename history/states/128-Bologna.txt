@@ -8,6 +8,9 @@ state={
     history={
 		owner = ISC
 		add_core_of = ISC
+		victory_points = {
+			6530 40
+		}
 	}
     
 	buildings_max_level_factor=1.000

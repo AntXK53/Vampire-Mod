@@ -9,6 +9,7 @@ state={
 		add_core_of = WLD
 		victory_points = {
 			11034 35
+		}
 	}
     
 	buildings_max_level_factor=1.000

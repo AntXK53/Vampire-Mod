@@ -1,0 +1,14 @@
+characters={
+	MSS_princess_olga={
+		name="Princess Olga"
+		portraits={
+			civilian={
+				large="GFX_portrait_mss_princess_olga"
+			}
+		}
+		country_leader={
+			ideology=open_mythology
+			expire="1965.1.1.1"
+		}
+	}
+}

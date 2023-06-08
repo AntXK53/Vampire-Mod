@@ -47,7 +47,27 @@ spriteTypes = {
 		texturefile = "gfx/leaders/SKE/portrait_ske_lord_skeleton.dds"
 	}
 	spriteType = {
+		name = "GFX_portrait_ske_uni"
+		texturefile = "gfx/leaders/SKE/portrait_ske_uni.dds"
+	}
+	spriteType = {
 		name = "GFX_portrait_ame_douglas_macarthur"
 		texturefile = "gfx/leaders/AME/portrait_ame_douglas_macarthur.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_pbp_karoly_szendy"
+		texturefile = "gfx/leaders/PBP/portrait_pbp_karoly_szendy.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_msr_prince_paul"
+		texturefile = "gfx/leaders/MSR/portrait_msr_prince_paul.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_mss_princess_olga"
+		texturefile = "gfx/leaders/MSS/portrait_mss_princess_olga.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ycm_milan_gorkic"
+		texturefile = "gfx/leaders/YCM/portrait_ycm_milan_gorkic.dds"
 	}
 }

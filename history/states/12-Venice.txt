@@ -9,6 +9,9 @@ state={
     history={
 		owner = VNC
 		add_core_of = VNC
+		victory_points = {
+			3418 40
+		}
 	}
     
 	buildings_max_level_factor=1.000

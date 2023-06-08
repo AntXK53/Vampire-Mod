@@ -1,0 +1,8 @@
+state_categories={
+	castle = {
+		local_building_slots = 5
+	
+			color = { 155 40 32 }
+
+	}
+}

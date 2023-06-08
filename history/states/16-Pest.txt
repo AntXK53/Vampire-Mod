@@ -8,6 +8,9 @@ state={
     history={
 		owner = PBP
 		add_core_of = PBP
+		victory_points = {
+			5799 40
+		}
 	}
     
 	buildings_max_level_factor=1.000

@@ -1,0 +1,8 @@
+state_categories={
+	facility = {
+		local_building_slots = 5
+	
+			color = { 0 78 168 }
+
+	}
+}

@@ -6,8 +6,18 @@ oob = "standard_templates"
 set_technology = {
 	infantry_weapons = 1
 }
+create_faction = "Realm of Dracula"
+add_to_faction = DRL
+add_to_faction = DNM
+add_to_faction = WLD
+add_to_faction = BHA
+add_to_faction = RML
+add_to_faction = DEX
+add_to_faction = CRF
 
 recruit_character = DRL_dracula
+
+set_major = yes
 
 set_convoys = 20
 

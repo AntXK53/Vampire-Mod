@@ -8,10 +8,18 @@ state={
     history={
 		owner = MRB
 		add_core_of = MRB
-	}
+		victory_points = {
+			7892 40
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 5
+		}
+    }
     
+        state_category=metropolis
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-        manpower=423500
-        state_category = town
+        manpower=623500
 }

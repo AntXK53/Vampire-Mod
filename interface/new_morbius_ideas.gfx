@@ -1,0 +1,22 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_idea_MRB_civilian_nation                        
+        texturefile = gfx/interface/ideas/GFX_idea_MRB_civilian_nation.dds 
+    }                                                   
+    spriteType = {                                      
+        name = GFX_idea_MRB_hungarian_threat
+        texturefile = gfx/interface/ideas/GFX_idea_MRB_hungarian_threat.dds
+    }
+    spriteType = {                                      
+        name = GFX_idea_YCM_collapsing_nation
+        texturefile = gfx/interface/ideas/GFX_idea_YCM_collapsing_nation.dds
+    }
+    spriteType = {                                      
+        name = GFX_idea_HNG_terrible_defeat
+        texturefile = gfx/interface/ideas/GFX_idea_HNG_terrible_defeat.dds
+    }
+    spriteType = {                                      
+        name = GFX_idea_YCM_pathetic_leader
+        texturefile = gfx/interface/ideas/GFX_idea_YCM_pathetic_leader.dds
+    }
+}

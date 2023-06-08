@@ -1,10 +1,42 @@
 capital = 199
 
-oob = "standard_templates"
+oob = "MRB_1936"
+
+set_research_slots = 4
+set_stability = 0.7
+set_war_support = 0.02
+add_command_power = 15
+add_ideas = {
+	MRB_civilian_nation
+	MRB_hungarian_threat
+}
+set_major = yes
+create_faction = "Vampiric League"
+add_to_faction = MRB
+add_to_faction = MAS
+add_to_faction = ROT
+add_to_faction = RB1
+add_to_faction = RB2
+add_to_faction = RB3
+add_to_faction = RBX
+add_to_faction = HGC
 
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	superior_firepower = 1
+	base_strike = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
 }
 
 recruit_character = MRB_michael_morbius

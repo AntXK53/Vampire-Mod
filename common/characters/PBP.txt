@@ -1,0 +1,14 @@
+characters={
+	PBP_karoly_szendy={
+		name="Károly Szendy"
+		portraits={
+			civilian={
+				large="GFX_portrait_pbp_karoly_szendy"
+			}
+		}
+		country_leader={
+			ideology=civic_nationalism
+			expire="1965.1.1.1"
+		}
+	}
+}

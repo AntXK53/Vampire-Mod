@@ -1,0 +1,26 @@
+ideas = {
+    country = {
+        YCM_collapsing_nation = {
+            picture = YCM_collapsing_nation
+            modifier = {
+				consumer_goods_factor = 0.6
+				local_resources_factor = -0.2
+				conscription_factor = -0.5
+				industrial_capacity_factory = -0.4
+				stability_factor = -0.3
+				political_power_gain = -0.8
+			}
+		}
+        YCM_pathetic_leader = {
+            picture = YCM_pathetic_leader
+            modifier = {
+				consumer_goods_factor = 0.1
+				local_resources_factor = -0.1
+				conscription_factor = -0.1
+				industrial_capacity_factory = -0.4
+				stability_factor = -0.4
+				political_power_gain = -0.1
+			}
+		}
+	}
+}

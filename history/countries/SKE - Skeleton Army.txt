@@ -8,6 +8,7 @@ set_technology = {
 }
 
 recruit_character = SKE_lord_skeleton
+recruit_character = SKE_uni
 
 set_convoys = 20
 

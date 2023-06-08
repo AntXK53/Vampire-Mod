@@ -1,0 +1,14 @@
+characters={
+	MSR_prince_paul={
+		name="Prince Paul"
+		portraits={
+			civilian={
+				large="GFX_portrait_msr_prince_paul"
+			}
+		}
+		country_leader={
+			ideology=open_mythology
+			expire="1965.1.1.1"
+		}
+	}
+}
