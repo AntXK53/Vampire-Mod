@@ -1,0 +1,201 @@
+focus_tree = {
+	id = ske
+	continuous_focus_position = { x = -40 y = 1050 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SKE
+		}
+	}
+	#Skeletons Rise
+	focus = {
+		id = SKE_skeletons_rise
+		icon = GFX_goal_unknown
+		x = 10
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#Pierce The Balkan Veil
+	focus = {
+		id = SKE_pierce_the_balkan_veil
+		icon = GFX_goal_unknown
+		x = 9
+		y = 6
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_militarize_slovakia  } prerequisite = { focus = SKE_militarize_poland  }
+	}
+
+	#...From Asia
+	focus = {
+		id = SKE_fromasia
+		icon = GFX_goal_unknown
+		x = 12
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_skeletons_rise  }
+	}
+
+	#...From The Americas
+	focus = {
+		id = SKE_fromtheamericas
+		icon = GFX_goal_unknown
+		x = 8
+		y = 3
+		cost = 20
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_skeletons_rise  }
+	}
+
+	#...From Africa
+	focus = {
+		id = SKE_fromafrica
+		icon = GFX_goal_unknown
+		x = 10
+		y = 3
+		cost = 20
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_skeletons_rise  }
+	}
+
+	#We Shall Prepare The Hordes
+	focus = {
+		id = SKE_we_shall_prepare_the_hordes
+		icon = GFX_goal_unknown
+		x = 8
+		y = 4
+		cost = 20
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_fromtheamericas  }
+	}
+
+	#We Are All United In Death
+	focus = {
+		id = SKE_we_are_all_united_in_death
+		icon = GFX_goal_unknown
+		x = 10
+		y = 4
+		cost = 20
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_fromafrica  }
+	}
+
+	#Prepare for The Final Assault
+	focus = {
+		id = SKE_prepare_for_the_final_assault
+		icon = GFX_goal_unknown
+		x = 10
+		y = 10
+		cost = 20
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#Militarize Ukraine
+	focus = {
+		id = SKE_militarize_ukraine
+		icon = GFX_goal_unknown
+		x = 12
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = SKE_we_must_end_all_life  }
+	}
+
+	#Militarize Slovakia
+	focus = {
+		id = SKE_militarize_slovakia
+		icon = GFX_goal_unknown
+		x = 10
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SKE_we_are_all_united_in_death  }
+	}
+
+	#Militarize Poland
+	focus = {
+		id = SKE_militarize_poland
+		icon = GFX_goal_unknown
+		x = 8
+		y = 5
+		cost = 9
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = SKE_we_shall_prepare_the_hordes  }
+	}
+
+	#Eradicate The Demons
+	focus = {
+		id = SKE_eradicate_the_demons
+		icon = GFX_goal_unknown
+		x = 11
+		y = 6
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_militarize_ukraine  } prerequisite = { focus = SKE_militarize_slovakia  }
+	}
+
+	#Eradicate All Life In Slovakia
+	focus = {
+		id = SKE_eradicate_all_life_in_slovakia
+		icon = GFX_goal_unknown
+		x = 10
+		y = 9
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#Complete the Work Of The Vampires
+	focus = {
+		id = SKE_complete_the_work_of_the_vampires
+		icon = GFX_goal_unknown
+		x = 10
+		y = 11
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#We Must End All Life
+	focus = {
+		id = SKE_we_must_end_all_life
+		icon = GFX_goal_unknown
+		x = 12
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SKE_fromasia  }
+	}
+
+}
