@@ -140,6 +140,7 @@ focus_tree = {
 		cost = 5
 		search_filters = {
 			FOCUS_FILTER_STABILITY
+			}
 		}
 		prerequisite = { focus = MRB_permit_human_blood_consumption  }
 	}
